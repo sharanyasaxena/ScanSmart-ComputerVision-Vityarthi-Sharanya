@@ -1,0 +1,13 @@
+# Core computer-vision stack
+opencv-python>=4.8.0
+numpy>=1.24.0
+
+# PDF export of scanned pages
+reportlab>=4.0.0
+Pillow>=10.0.0
+
+# Diagram / chart generation for the report (tools/ only)
+matplotlib>=3.7.0
+
+# Testing
+pytest>=7.4.0

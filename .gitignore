@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# Generated output
+outputs/
+docs/images/*_tmp.png
+.pytest_cache/
+.coverage
+
+# OS
+.DS_Store
+Thumbs.db

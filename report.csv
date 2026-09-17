@@ -1,0 +1,7 @@
+source,output,status,method,confidence,area_ratio,grade,sharpness,contrast,brightness,skew_deg,width,height,elapsed_ms,error
+sample_01.jpg,sample_01_scanned.png,ok,contour,0.816,0.579,GOOD,7000.43,69.92,234.12,0.0,792,1137,143.8,
+sample_02.jpg,sample_02_scanned.png,ok,min_area_rect,0.75,0.72,GOOD,6684.02,66.25,236.44,0.0,857,1180,149.3,
+sample_03.jpg,sample_03_scanned.png,ok,contour,0.894,0.6,GOOD,7004.05,68.72,234.9,0.0,763,1172,106.0,
+sample_04.jpg,sample_04_scanned.png,ok,contour,0.851,0.473,GOOD,7498.08,71.8,232.86,0.0,673,1081,89.0,
+sample_05.jpg,sample_05_scanned.png,ok,contour,0.782,0.511,GOOD,7392.26,71.32,233.18,0.0,822,1107,115.0,
+sample_06.jpg,sample_06_scanned.png,ok,contour,0.906,0.549,GOOD,7190.26,70.29,233.88,0.0,722,1150,102.7,
