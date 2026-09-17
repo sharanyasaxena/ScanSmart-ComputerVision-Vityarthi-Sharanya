@@ -164,13 +164,9 @@ Mean detect time : 14 ms
 
 ## 8. Screenshots
 
-Enhancement modes:
+Enhancement modes & Batch results:
 
-![Modes](outputs/sample_05_comparison.png)
-
-Batch results:
-
-![Results](outputs/sample_05_comparison.png)
+<img src="./outputs/sample_05_comparison.png" alt="ScanSmart Output Results" width="100%" />
 ## 9. Known Limitations
 
 - A page that is **clipped by the frame edge** has no closed contour, so the
