@@ -164,17 +164,9 @@ Mean detect time : 14 ms
 
 ## 8. Screenshots
 
-Enhancement modes & Batch results:
-
-## 8. Screenshots
-
 Enhancement modes:
 
-![Modes](## 8. Screenshots
-
-Enhancement modes:
-
-![Modes]()
+![Modes](sample_05_detected.png)
 
 Batch results:
 
