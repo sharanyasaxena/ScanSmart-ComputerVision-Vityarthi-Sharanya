@@ -166,12 +166,11 @@ Mean detect time : 14 ms
 
 Enhancement modes:
 
-![Modes](docs/images/modes.png)
+![Modes](outputs/sample_05_comparison.png)
 
 Batch results:
 
-![Results](docs/images/results_chart.png)
-
+![Results](outputs/sample_05_comparison.png)
 ## 9. Known Limitations
 
 - A page that is **clipped by the frame edge** has no closed contour, so the
