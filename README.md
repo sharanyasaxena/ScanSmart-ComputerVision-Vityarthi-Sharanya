@@ -4,7 +4,7 @@ A classical **computer-vision** pipeline that turns an ordinary phone photo of a
 document into a flat, clean, scanner-quality page — offline, in ~120 ms per
 image, with no machine-learning model and no cloud service.
 
-![Pipeline stages](docs/images/pipeline_stages.png)
+![Pipeline stages](pipeline_stages.png)
 
 ---
 
