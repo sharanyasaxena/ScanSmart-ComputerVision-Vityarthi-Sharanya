@@ -174,15 +174,12 @@ Enhancement modes:
 
 Enhancement modes:
 
-![Modes](outputs/sample_05_comparison.png)
+![Modes]()
 
 Batch results:
 
-![Results]()
+![Results](sample_05_comparison.png)
 
-Batch results:
-
-![Results](outputs/sample_05_comparison.png)
 ## 9. Known Limitations
 
 - A page that is **clipped by the frame edge** has no closed contour, so the
